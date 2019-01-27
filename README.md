@@ -1,2 +1,3 @@
 # hello-world
-Just another directory
+Bonjour gens de la Terre.
+Je suis une homosapiens omnivore et technivore.
